@@ -1,3 +1,5 @@
 Bacula virtual MTX changer.
 
 This software runs on Python and sends an email when bacula needs a new tape in the reader.
+
+For any issue or questions: pietro@bertera.it
